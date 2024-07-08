@@ -4,6 +4,14 @@
 
 ## Installation
 
+### Export
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to export libs to requirements.txt
+
+```bash
+pip freeze > requirements.txt
+```
+
+### Install
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libs.
 
 ```bash
@@ -16,6 +24,13 @@ pip install -r requirements.txt
 
 ## Instalação
 
+### Exportar
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para exportar as bibliotecas.
+```bash
+pip freeze > requirements.txt
+```
+
+### Instalar
 Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar as bibliotecas.
 
 ```bash
